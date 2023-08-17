@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/Abhay110105/CEbomb.git"><img src="https://www.angrybirds.com/wp-content/uploads/2022/05/ABCOM_202203_350x350_CharacterDimensio_Blues_Classic.png" alt="TBomb"></a>
+  <a href="https://github.com/CyberEdgeToolBox/CEbomb"><img src="https://www.angrybirds.com/wp-content/uploads/2022/05/ABCOM_202203_350x350_CharacterDimensio_Blues_Classic.png" alt="TBomb"></a>
   <br>
   CEbomb v1.0
   <br>

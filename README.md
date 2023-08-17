@@ -45,7 +45,7 @@ To use the bomber type the following commands in Termux:
 ```shell script
 pkg install git -y 
 pkg install python -y 
-git clone https://github.com/Abhay110105/CEbomb.git
+git clone https://github.com/CyberEdgeToolBox/CEbomb
 cd CEbomb
 ./CEbomb.sh
 ```
@@ -54,7 +54,7 @@ cd CEbomb
 To use the application, type in the following commands in GNU/Linux terminal.
 ```shell script
 sudo apt install git
-git clone https://github.com/Abhay110105/CEbomb.git
+git clone https://github.com/CyberEdgeToolBox/CEbomb
 cd CEbomb
 bash CEbomb.sh
 ```

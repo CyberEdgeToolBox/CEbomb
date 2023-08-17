@@ -59,6 +59,6 @@ cd CEbomb
 bash CEbomb.sh
 ```
 
-For Queries: [Telegram Group](https://t.me/+3Tz_BV1Odvc3Zj1)  
+For Queries: [Telegram Group](https://t.me/CEbombChat)  
 
 
